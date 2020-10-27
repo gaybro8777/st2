@@ -1,6 +1,6 @@
 # Don't edit this file. It's generated automatically!
 argcomplete
-cryptography==2.4.2
+cryptography==3.2
 jsonpath-rw==1.4.0
 jsonschema==2.6.0
 prettytable
