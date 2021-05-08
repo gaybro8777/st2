@@ -3,7 +3,7 @@
 greenlet==0.4.15
 # Note: 0.20.0 removed select.poll() on which some of our code and libraries we
 # depend on rely
-eventlet==0.24.1
+eventlet==0.31.0
 gunicorn==19.9.0
 kombu==4.2.2
 # Note: amqp is used by kombu
